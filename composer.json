@@ -1,7 +1,0 @@
-{
-    "name": "vinicius.zafalon/zafalon",
-    "require": {
-        "slim/slim": "^4.14",
-        "slim/psr7": "^1.7"
-    }
-}
